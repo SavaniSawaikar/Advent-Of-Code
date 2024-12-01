@@ -1,3 +1,3 @@
-# Advent-Of-Code-2023
+# Advent-Of-Code
 
-Just doing Advent of Code 2023, thought I'd store my solutions somewhere
+AoC for fun
